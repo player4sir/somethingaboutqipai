@@ -1,0 +1,181 @@
+
+skeleton.png
+size: 1916,450
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+04
+  rotate: false
+  xy: 252, 23
+  size: 491, 80
+  orig: 494, 83
+  offset: 2, 2
+  index: -1
+05
+  rotate: false
+  xy: 548, 270
+  size: 390, 178
+  orig: 393, 182
+  offset: 1, 1
+  index: -1
+06
+  rotate: false
+  xy: 1714, 227
+  size: 200, 221
+  orig: 200, 221
+  offset: 0, 0
+  index: -1
+444
+  rotate: true
+  xy: 548, 118
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 691, 133
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+b10
+  rotate: false
+  xy: 1376, 176
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 828, 133
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 965, 146
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+b4
+  rotate: false
+  xy: 1037, 9
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+b5
+  rotate: false
+  xy: 1102, 146
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+b6
+  rotate: false
+  xy: 1174, 9
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+b7
+  rotate: false
+  xy: 1165, 313
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+b8
+  rotate: false
+  xy: 1239, 176
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+b9
+  rotate: false
+  xy: 1302, 313
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+d1
+  rotate: false
+  xy: 1714, 10
+  size: 200, 215
+  orig: 200, 215
+  offset: 0, 0
+  index: -1
+jindou_2
+  rotate: false
+  xy: 1439, 350
+  size: 95, 98
+  orig: 101, 105
+  offset: 2, 2
+  index: -1
+light_00000
+  rotate: false
+  xy: 1577, 12
+  size: 46, 46
+  orig: 54, 54
+  offset: 3, 4
+  index: -1
+s1
+  rotate: true
+  xy: 1513, 60
+  size: 288, 199
+  orig: 288, 199
+  offset: 0, 0
+  index: -1
+s2
+  rotate: true
+  xy: 2, 30
+  size: 418, 248
+  orig: 418, 248
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 745, 7
+  size: 144, 124
+  orig: 146, 126
+  offset: 1, 1
+  index: -1
+s4
+  rotate: false
+  xy: 940, 283
+  size: 223, 165
+  orig: 225, 167
+  offset: 1, 1
+  index: -1
+s5
+  rotate: false
+  xy: 891, 7
+  size: 144, 124
+  orig: 146, 126
+  offset: 1, 1
+  index: -1
+s6
+  rotate: false
+  xy: 252, 105
+  size: 294, 343
+  orig: 294, 343
+  offset: 0, 0
+  index: -1
+s7
+  rotate: true
+  xy: 1513, 13
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+sheguang_00001
+  rotate: false
+  xy: 1311, 2
+  size: 200, 172
+  orig: 200, 172
+  offset: 0, 0
+  index: -1

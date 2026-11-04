@@ -1,0 +1,41 @@
+
+TY_wupin_light.png
+size: 501,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+555
+  rotate: false
+  xy: 386, 36
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+BG_light
+  rotate: false
+  xy: 0, 0
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+kuang_light
+  rotate: false
+  xy: 302, 17
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+shenglvguang_2
+  rotate: false
+  xy: 302, 100
+  size: 199, 200
+  orig: 199, 200
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 450, 60
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

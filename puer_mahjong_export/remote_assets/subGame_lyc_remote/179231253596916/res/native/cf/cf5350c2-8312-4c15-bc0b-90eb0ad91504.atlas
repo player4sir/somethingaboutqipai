@@ -1,0 +1,181 @@
+
+lordBroke.png
+size: 981,493
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx1_1
+  rotate: true
+  xy: 801, 344
+  size: 149, 143
+  orig: 149, 143
+  offset: 0, 0
+  index: -1
+tx1_2
+  rotate: false
+  xy: 801, 199
+  size: 149, 143
+  orig: 149, 143
+  offset: 0, 0
+  index: -1
+tx1_3
+  rotate: false
+  xy: 0, 190
+  size: 149, 143
+  orig: 149, 143
+  offset: 0, 0
+  index: -1
+tx1_4
+  rotate: false
+  xy: 473, 168
+  size: 149, 143
+  orig: 149, 143
+  offset: 0, 0
+  index: -1
+tx1_5
+  rotate: false
+  xy: 624, 168
+  size: 149, 143
+  orig: 149, 143
+  offset: 0, 0
+  index: -1
+tx2_1
+  rotate: false
+  xy: 0, 92
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+tx2_10
+  rotate: false
+  xy: 274, 302
+  size: 197, 191
+  orig: 197, 191
+  offset: 0, 0
+  index: -1
+tx2_2
+  rotate: true
+  xy: 885, 99
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+tx2_3
+  rotate: false
+  xy: 472, 70
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+tx2_4
+  rotate: false
+  xy: 572, 70
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+tx2_5
+  rotate: false
+  xy: 672, 70
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+tx2_6
+  rotate: false
+  xy: 100, 26
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+tx2_7
+  rotate: false
+  xy: 200, 2
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+tx2_8
+  rotate: false
+  xy: 772, 0
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+tx2_9
+  rotate: false
+  xy: 872, 0
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+tx3_1
+  rotate: false
+  xy: 151, 234
+  size: 108, 99
+  orig: 108, 99
+  offset: 0, 0
+  index: -1
+tx3_2
+  rotate: false
+  xy: 261, 201
+  size: 108, 99
+  orig: 108, 99
+  offset: 0, 0
+  index: -1
+tx3_3
+  rotate: true
+  xy: 371, 192
+  size: 108, 99
+  orig: 108, 99
+  offset: 0, 0
+  index: -1
+tx3_4
+  rotate: true
+  xy: 151, 124
+  size: 108, 99
+  orig: 108, 99
+  offset: 0, 0
+  index: -1
+tx3_5
+  rotate: false
+  xy: 252, 100
+  size: 108, 99
+  orig: 108, 99
+  offset: 0, 0
+  index: -1
+tx3_6
+  rotate: false
+  xy: 775, 98
+  size: 108, 99
+  orig: 108, 99
+  offset: 0, 0
+  index: -1
+tx3_7
+  rotate: false
+  xy: 362, 91
+  size: 108, 99
+  orig: 108, 99
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 0, 335
+  size: 272, 158
+  orig: 272, 158
+  offset: 0, 0
+  index: -1
+zhandan_1
+  rotate: false
+  xy: 473, 313
+  size: 162, 180
+  orig: 162, 180
+  offset: 0, 0
+  index: -1
+zhandan_2
+  rotate: false
+  xy: 637, 313
+  size: 162, 180
+  orig: 162, 180
+  offset: 0, 0
+  index: -1

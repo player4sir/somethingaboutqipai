@@ -1,0 +1,55 @@
+
+erke.png
+size: 273,579
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Te
+  rotate: false
+  xy: 119, 425
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+d10001
+  rotate: true
+  xy: 0, 119
+  size: 229, 117
+  orig: 229, 117
+  offset: 0, 0
+  index: -1
+d10003
+  rotate: false
+  xy: 0, 0
+  size: 229, 117
+  orig: 229, 117
+  offset: 0, 0
+  index: -1
+d10005
+  rotate: true
+  xy: 0, 350
+  size: 229, 117
+  orig: 229, 117
+  offset: 0, 0
+  index: -1
+er
+  rotate: false
+  xy: 119, 155
+  size: 74, 93
+  orig: 74, 93
+  offset: 0, 0
+  index: -1
+er2
+  rotate: false
+  xy: 195, 148
+  size: 62, 100
+  orig: 62, 100
+  offset: 0, 0
+  index: -1
+y10001
+  rotate: true
+  xy: 119, 250
+  size: 173, 135
+  orig: 173, 135
+  offset: 0, 0
+  index: -1

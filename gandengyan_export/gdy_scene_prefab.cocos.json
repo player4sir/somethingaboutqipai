@@ -1,0 +1,559 @@
+{
+  "game": "GDY",
+  "title": "疯狂干瞪眼",
+  "subgame": "subGame_gdy",
+  "prefabPath": "prefab/gameScenePrefab",
+  "designResolution": {
+    "width": 1280,
+    "height": 720
+  },
+  "widescreenOffset": {
+    "threshold": 1440,
+    "notchOffset": 57
+  },
+  "totalNodes": 14,
+  "nodes": [
+    {
+      "nodeIndex": 0,
+      "name": "gameScenePrefab",
+      "active": true,
+      "_lpos": [
+        0,
+        0,
+        0
+      ],
+      "_lrot": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "_lscale": [
+        1,
+        1,
+        1
+      ],
+      "_contentSize": [
+        0,
+        0
+      ],
+      "_anchorPoint": [
+        0.5,
+        0.5
+      ],
+      "components": {
+        "widget": null,
+        "button": null,
+        "label": null,
+        "sprite": null
+      }
+    },
+    {
+      "nodeIndex": 1,
+      "name": "gameScenePrefab",
+      "active": true,
+      "_lpos": [
+        0,
+        0,
+        0
+      ],
+      "_lrot": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "_lscale": [
+        1,
+        1,
+        1
+      ],
+      "_contentSize": [
+        1280,
+        720
+      ],
+      "_anchorPoint": [
+        0.5,
+        0.5
+      ],
+      "components": {
+        "widget": null,
+        "button": null,
+        "label": {
+          "text": "c46/YsCPVOJYA4mWEpNYRx",
+          "fontSize": -29,
+          "lineHeight": 0
+        },
+        "sprite": null
+      }
+    },
+    {
+      "nodeIndex": 3,
+      "name": "nodeNormalAnim",
+      "active": true,
+      "_lpos": [
+        0,
+        0,
+        0
+      ],
+      "_lrot": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "_lscale": [
+        1,
+        1,
+        1
+      ],
+      "_contentSize": [
+        1280,
+        720
+      ],
+      "_anchorPoint": [
+        0.5,
+        0.5
+      ],
+      "components": {
+        "widget": null,
+        "button": null,
+        "label": {
+          "text": "d0R+T3GH1Jc587hJqf/oI5",
+          "fontSize": 1,
+          "lineHeight": 0
+        },
+        "sprite": null
+      }
+    },
+    {
+      "nodeIndex": 5,
+      "name": "animNode",
+      "active": true,
+      "_lpos": [
+        0,
+        0,
+        0
+      ],
+      "_lrot": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "_lscale": [
+        1,
+        1,
+        1
+      ],
+      "_contentSize": [
+        0,
+        0
+      ],
+      "_anchorPoint": [
+        0.5,
+        0.5
+      ],
+      "components": {
+        "widget": null,
+        "button": null,
+        "label": {
+          "text": "5b+pQ3t/pMSL4Syp+mlQBD",
+          "fontSize": 1,
+          "lineHeight": 0
+        },
+        "sprite": null
+      }
+    },
+    {
+      "nodeIndex": 6,
+      "name": "animNode",
+      "active": true,
+      "_lpos": [
+        0,
+        0,
+        0
+      ],
+      "_lrot": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "_lscale": [
+        1,
+        1,
+        1
+      ],
+      "_contentSize": [
+        0,
+        0
+      ],
+      "_anchorPoint": [
+        0.5,
+        0.5
+      ],
+      "components": {
+        "widget": null,
+        "button": null,
+        "label": {
+          "text": "32aB9uS5ZIv7+udCeypUk7",
+          "fontSize": 1,
+          "lineHeight": 0
+        },
+        "sprite": null
+      }
+    },
+    {
+      "nodeIndex": 10,
+      "name": "timeNode",
+      "active": true,
+      "_lpos": [
+        0,
+        0,
+        0
+      ],
+      "_lrot": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "_lscale": [
+        1,
+        1,
+        1
+      ],
+      "_contentSize": [
+        1280,
+        720
+      ],
+      "_anchorPoint": [
+        0.5,
+        0.5
+      ],
+      "components": {
+        "widget": null,
+        "button": null,
+        "label": {
+          "text": "8aix2uqAlK4afCW/iEcVqH",
+          "fontSize": 1,
+          "lineHeight": 0
+        },
+        "sprite": null
+      }
+    },
+    {
+      "nodeIndex": 11,
+      "name": "infoPanelNode",
+      "active": true,
+      "_lpos": [
+        0,
+        0,
+        0
+      ],
+      "_lrot": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "_lscale": [
+        1,
+        1,
+        1
+      ],
+      "_contentSize": [
+        1280,
+        720
+      ],
+      "_anchorPoint": [
+        0.5,
+        0.5
+      ],
+      "components": {
+        "widget": null,
+        "button": null,
+        "label": {
+          "text": "93zWUBW6xAzrV0tG5VbMdT",
+          "fontSize": 1,
+          "lineHeight": 0
+        },
+        "sprite": null
+      }
+    },
+    {
+      "nodeIndex": 14,
+      "name": "activityNode",
+      "active": true,
+      "_lpos": [
+        0,
+        0,
+        0
+      ],
+      "_lrot": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "_lscale": [
+        1,
+        1,
+        1
+      ],
+      "_contentSize": [
+        1280,
+        720
+      ],
+      "_anchorPoint": [
+        0.5,
+        0.5
+      ],
+      "components": {
+        "widget": null,
+        "button": null,
+        "label": {
+          "text": "f8NMlWoIVONp5kA4U+bxum",
+          "fontSize": 1,
+          "lineHeight": 0
+        },
+        "sprite": null
+      }
+    },
+    {
+      "nodeIndex": 15,
+      "name": "operationNode",
+      "active": true,
+      "_lpos": [
+        0,
+        0,
+        0
+      ],
+      "_lrot": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "_lscale": [
+        1,
+        1,
+        1
+      ],
+      "_contentSize": [
+        1280,
+        720
+      ],
+      "_anchorPoint": [
+        0.5,
+        0.5
+      ],
+      "components": {
+        "widget": null,
+        "button": null,
+        "label": {
+          "text": "7045lTJ/RDLLY2cMxf/Kfi",
+          "fontSize": 1,
+          "lineHeight": 0
+        },
+        "sprite": null
+      }
+    },
+    {
+      "nodeIndex": 16,
+      "name": "SpriteTemplate",
+      "active": true,
+      "_lpos": [
+        0,
+        0,
+        0
+      ],
+      "_lrot": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "_lscale": [
+        1,
+        1,
+        1
+      ],
+      "_contentSize": [
+        0,
+        0
+      ],
+      "_anchorPoint": [
+        0.5,
+        0.5
+      ],
+      "components": {
+        "widget": null,
+        "button": null,
+        "label": {
+          "text": "676fHMYF5Frb6c3pgdA05u",
+          "fontSize": 1,
+          "lineHeight": 0
+        },
+        "sprite": null
+      }
+    },
+    {
+      "nodeIndex": 17,
+      "name": "HD_daoju",
+      "active": true,
+      "_lpos": [
+        0,
+        0,
+        0
+      ],
+      "_lrot": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "_lscale": [
+        1,
+        1,
+        1
+      ],
+      "_contentSize": [
+        0,
+        0
+      ],
+      "_anchorPoint": [
+        0.5,
+        0.5
+      ],
+      "components": {
+        "widget": null,
+        "button": null,
+        "label": {
+          "text": "cfL96ST8FFN5ooSfZlX87w",
+          "fontSize": 1,
+          "lineHeight": 0
+        },
+        "sprite": null
+      }
+    },
+    {
+      "nodeIndex": 18,
+      "name": "AnimNode",
+      "active": true,
+      "_lpos": [
+        0,
+        0,
+        0
+      ],
+      "_lrot": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "_lscale": [
+        1,
+        1,
+        1
+      ],
+      "_contentSize": [
+        1280,
+        720
+      ],
+      "_anchorPoint": [
+        0.5,
+        0.5
+      ],
+      "components": {
+        "widget": null,
+        "button": null,
+        "label": {
+          "text": "6bdMYP+v5F4KKZnIQGKb6q",
+          "fontSize": 1,
+          "lineHeight": 0
+        },
+        "sprite": null
+      }
+    },
+    {
+      "nodeIndex": 19,
+      "name": "infoPanelNodeFG",
+      "active": true,
+      "_lpos": [
+        0,
+        0,
+        0
+      ],
+      "_lrot": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "_lscale": [
+        1,
+        1,
+        1
+      ],
+      "_contentSize": [
+        1280,
+        720
+      ],
+      "_anchorPoint": [
+        0.5,
+        0.5
+      ],
+      "components": {
+        "widget": null,
+        "button": null,
+        "label": {
+          "text": "88yyE0YBFL+q8NA1qhUWrw",
+          "fontSize": 1,
+          "lineHeight": 0
+        },
+        "sprite": null
+      }
+    },
+    {
+      "nodeIndex": 21,
+      "name": "popupNode",
+      "active": true,
+      "_lpos": [
+        0,
+        0,
+        0
+      ],
+      "_lrot": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "_lscale": [
+        1,
+        1,
+        1
+      ],
+      "_contentSize": [
+        1280,
+        720
+      ],
+      "_anchorPoint": [
+        0.5,
+        0.5
+      ],
+      "components": {
+        "widget": null,
+        "button": null,
+        "label": {
+          "text": "de/evJnBJAu4eFHou7l6ys",
+          "fontSize": 1,
+          "lineHeight": 0
+        },
+        "sprite": null
+      }
+    }
+  ]
+}

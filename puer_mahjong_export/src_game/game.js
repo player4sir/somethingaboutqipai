@@ -1,0 +1,12 @@
+System.register("chunks:///_virtual/Game.ts", ["cc"], (function(e) {
+    var t;
+    return {
+        setters: [function(e) {
+            t = e.cclegacy
+        }],
+        execute: function() {
+            var n;
+            e("Game", void 0), t._RF.push({}, "3d343gvuyFN97ozAieJyDvY", "Game", void 0), n || (n = e("Game", {})), t._RF.pop()
+        }
+    }
+}))

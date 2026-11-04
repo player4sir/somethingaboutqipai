@@ -1,0 +1,1 @@
+System.register("chunks:///_virtual/GameInterfaceDefines.ts",["cc"],(function(e){var t;return{setters:[function(e){t=e.cclegacy}],execute:function(){var n;e("inf_ReconnectInfo",void 0),t._RF.push({},"2fbcfDe+sBOjYk/Sg1qsgnn","GameInterfaceDefines",void 0),function(e){e[e.Offline=0]="Offline",e[e.Online=1]="Online"}(n||(n=e("inf_ReconnectInfo",{}))),t._RF.pop()}}}))

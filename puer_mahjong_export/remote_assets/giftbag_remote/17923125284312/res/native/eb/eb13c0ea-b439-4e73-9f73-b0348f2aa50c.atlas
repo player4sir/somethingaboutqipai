@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 309,44
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/beishu/1
+  rotate: false
+  xy: 289, 1
+  size: 20, 43
+  orig: 20, 43
+  offset: 0, 0
+  index: -1
+images/beishu/2
+  rotate: false
+  xy: 97, 1
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+images/beishu/3
+  rotate: false
+  xy: 161, 0
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+images/beishu/4
+  rotate: false
+  xy: 0, 1
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+images/beishu/5
+  rotate: false
+  xy: 129, 1
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+images/beishu/6
+  rotate: false
+  xy: 192, 0
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+images/beishu/7
+  rotate: false
+  xy: 223, 2
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+images/beishu/8
+  rotate: false
+  xy: 33, 0
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+images/beishu/9
+  rotate: false
+  xy: 65, 0
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+images/beishu/x
+  rotate: false
+  xy: 254, 11
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1

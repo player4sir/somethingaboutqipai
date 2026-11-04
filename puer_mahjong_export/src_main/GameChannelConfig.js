@@ -1,0 +1,1 @@
+System.register("chunks:///_virtual/GameChannelConfig.ts",["cc"],(function(e){var n;return{setters:[function(e){n=e.cclegacy}],execute:function(){var a;e("GameChannelConfig",void 0),n._RF.push({},"760daDC8w1GUJsoTPNqxvXq","GameChannelConfig",void 0),(a||(a=e("GameChannelConfig",{}))).mergeGameListUIConfig=function(e){return e},n._RF.pop()}}}))

@@ -1,0 +1,1 @@
+System.register("chunks:///_virtual/shpCardBackView.ts",["cc"],(function(e){var t;return{setters:[function(e){t=e.cclegacy}],execute:function(){e("setShpCardBackScale",(function(e,t){var i=Number(t);return!(null==e||!e.isValid||!Number.isFinite(i)||i<=0||(e.setScale(i,i,1),0))})),t._RF.push({},"e6bbb92qxRIeLGqX9/xTI+D","shpCardBackView",void 0),t._RF.pop()}}}))

@@ -1,0 +1,41 @@
+
+hb.png
+size: 396,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hb/gd
+  rotate: false
+  xy: 304, 211
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: -1
+hb/hb_pass
+  rotate: false
+  xy: 304, 127
+  size: 66, 82
+  orig: 66, 82
+  offset: 0, 0
+  index: -1
+hb/hb_pass_b
+  rotate: false
+  xy: 304, 43
+  size: 66, 82
+  orig: 66, 82
+  offset: 0, 0
+  index: -1
+hb/jd
+  rotate: true
+  xy: 372, 181
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+hb/lizi_01_00000
+  rotate: false
+  xy: 2, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1

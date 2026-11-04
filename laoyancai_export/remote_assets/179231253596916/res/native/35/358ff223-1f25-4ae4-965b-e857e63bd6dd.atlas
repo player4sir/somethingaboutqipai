@@ -1,0 +1,118 @@
+
+cardTtype.png
+size: 1228,484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx1_1
+  rotate: false
+  xy: 330, 0
+  size: 178, 172
+  orig: 178, 172
+  offset: 0, 0
+  index: -1
+tx1_2
+  rotate: false
+  xy: 510, 0
+  size: 178, 172
+  orig: 178, 172
+  offset: 0, 0
+  index: -1
+tx1_3
+  rotate: false
+  xy: 690, 0
+  size: 178, 172
+  orig: 178, 172
+  offset: 0, 0
+  index: -1
+tx1_4
+  rotate: false
+  xy: 870, 0
+  size: 178, 172
+  orig: 178, 172
+  offset: 0, 0
+  index: -1
+tx1_5
+  rotate: false
+  xy: 1050, 0
+  size: 178, 172
+  orig: 178, 172
+  offset: 0, 0
+  index: -1
+tx_1
+  rotate: true
+  xy: 0, 208
+  size: 149, 158
+  orig: 155, 163
+  offset: 3, 2
+  index: -1
+tx_2
+  rotate: true
+  xy: 0, 438
+  size: 46, 47
+  orig: 48, 49
+  offset: 1, 1
+  index: -1
+tx_3
+  rotate: false
+  xy: 49, 389
+  size: 97, 95
+  orig: 105, 103
+  offset: 4, 4
+  index: -1
+zi_2
+  rotate: false
+  xy: 627, 339
+  size: 289, 145
+  orig: 289, 145
+  offset: 0, 0
+  index: -1
+zi_22
+  rotate: false
+  xy: 0, 29
+  size: 328, 164
+  orig: 350, 250
+  offset: 11, 44
+  index: -1
+zi_3
+  rotate: false
+  xy: 918, 339
+  size: 293, 145
+  orig: 294, 145
+  offset: 1, 0
+  index: -1
+zi_33
+  rotate: false
+  xy: 473, 174
+  size: 333, 163
+  orig: 350, 250
+  offset: 6, 45
+  index: -1
+zi_4
+  rotate: false
+  xy: 148, 359
+  size: 236, 125
+  orig: 238, 125
+  offset: 1, 0
+  index: -1
+zi_44
+  rotate: false
+  xy: 808, 174
+  size: 333, 163
+  orig: 350, 250
+  offset: 6, 45
+  index: -1
+zi_5
+  rotate: false
+  xy: 386, 359
+  size: 239, 125
+  orig: 240, 125
+  offset: 0, 0
+  index: -1
+zi_55
+  rotate: false
+  xy: 160, 195
+  size: 311, 162
+  orig: 317, 165
+  offset: 3, 2
+  index: -1

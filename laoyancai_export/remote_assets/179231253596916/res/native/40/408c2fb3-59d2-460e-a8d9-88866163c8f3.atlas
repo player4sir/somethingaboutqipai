@@ -1,0 +1,55 @@
+
+lordGetCard.png
+size: 235,991
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gz_1
+  rotate: false
+  xy: 0, 670
+  size: 235, 321
+  orig: 235, 321
+  offset: 0, 0
+  index: -1
+gz_2
+  rotate: true
+  xy: 149, 250
+  size: 144, 74
+  orig: 144, 74
+  offset: 0, 0
+  index: -1
+gz_3
+  rotate: false
+  xy: 0, 53
+  size: 212, 85
+  orig: 212, 85
+  offset: 0, 0
+  index: -1
+gz_4
+  rotate: false
+  xy: 0, 1
+  size: 152, 50
+  orig: 152, 50
+  offset: 0, 0
+  index: -1
+pai
+  rotate: false
+  xy: 0, 396
+  size: 202, 272
+  orig: 202, 272
+  offset: 0, 0
+  index: -1
+shou_2
+  rotate: false
+  xy: 0, 140
+  size: 219, 255
+  orig: 240, 260
+  offset: 12, 5
+  index: -1
+shou_3
+  rotate: true
+  xy: 154, 6
+  size: 45, 81
+  orig: 45, 81
+  offset: 0, 0
+  index: -1

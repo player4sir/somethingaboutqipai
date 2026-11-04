@@ -1,0 +1,41 @@
+
+chatVedioSkeleton.png
+size: 224,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ht_01
+  rotate: false
+  xy: 66, 0
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+ht_02
+  rotate: false
+  xy: 106, 0
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+ht_03
+  rotate: false
+  xy: 146, 0
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+ht_04
+  rotate: false
+  xy: 186, 0
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+ht_di
+  rotate: false
+  xy: 0, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

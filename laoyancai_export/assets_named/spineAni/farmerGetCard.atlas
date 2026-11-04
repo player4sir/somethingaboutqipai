@@ -1,0 +1,48 @@
+
+farmerGetCard.png
+size: 384,55
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 325, 4
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 0, 2
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+tx_1
+  rotate: false
+  xy: 77, 0
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+tx_2
+  rotate: false
+  xy: 139, 0
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+tx_3
+  rotate: false
+  xy: 201, 0
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+tx_4
+  rotate: false
+  xy: 263, 0
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1

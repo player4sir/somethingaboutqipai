@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 1848,450
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/kefu/1
+  rotate: false
+  xy: 0, 0
+  size: 578, 450
+  orig: 578, 450
+  offset: 0, 0
+  index: -1
+images/kefu/2
+  rotate: false
+  xy: 580, 0
+  size: 578, 450
+  orig: 578, 450
+  offset: 0, 0
+  index: -1
+images/kefu/3
+  rotate: false
+  xy: 1160, 0
+  size: 578, 450
+  orig: 578, 450
+  offset: 0, 0
+  index: -1
+images/xiaochengxu/sz
+  rotate: false
+  xy: 1740, 313
+  size: 108, 137
+  orig: 108, 137
+  offset: 0, 0
+  index: -1
+images/xiaochengxu/yq
+  rotate: false
+  xy: 1740, 217
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1

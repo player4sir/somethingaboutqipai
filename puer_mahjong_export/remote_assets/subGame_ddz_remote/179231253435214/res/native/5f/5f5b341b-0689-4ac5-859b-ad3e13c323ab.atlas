@@ -1,0 +1,48 @@
+
+sanke.png
+size: 544,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Te
+  rotate: false
+  xy: 0, 5
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+d10001
+  rotate: true
+  xy: 427, 7
+  size: 229, 117
+  orig: 229, 117
+  offset: 0, 0
+  index: -1
+d10003
+  rotate: false
+  xy: 156, 0
+  size: 229, 117
+  orig: 229, 117
+  offset: 0, 0
+  index: -1
+d10005
+  rotate: false
+  xy: 196, 119
+  size: 229, 117
+  orig: 229, 117
+  offset: 0, 0
+  index: -1
+er2
+  rotate: true
+  xy: 0, 174
+  size: 62, 100
+  orig: 62, 100
+  offset: 0, 0
+  index: -1
+san
+  rotate: true
+  xy: 102, 161
+  size: 75, 92
+  orig: 75, 92
+  offset: 0, 0
+  index: -1

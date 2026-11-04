@@ -1,0 +1,104 @@
+
+tuoxie.png
+size: 1351,302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tuoxie/01
+  rotate: true
+  xy: 0, 152
+  size: 150, 205
+  orig: 150, 205
+  offset: 0, 0
+  index: -1
+tuoxie/02
+  rotate: true
+  xy: 207, 152
+  size: 150, 205
+  orig: 150, 205
+  offset: 0, 0
+  index: -1
+tuoxie/03
+  rotate: true
+  xy: 414, 152
+  size: 150, 205
+  orig: 150, 205
+  offset: 0, 0
+  index: -1
+tuoxie/04
+  rotate: true
+  xy: 621, 152
+  size: 150, 205
+  orig: 150, 205
+  offset: 0, 0
+  index: -1
+tuoxie/05
+  rotate: true
+  xy: 828, 152
+  size: 150, 205
+  orig: 150, 205
+  offset: 0, 0
+  index: -1
+tuoxie/06
+  rotate: true
+  xy: 1035, 152
+  size: 150, 205
+  orig: 150, 205
+  offset: 0, 0
+  index: -1
+tuoxie/07
+  rotate: true
+  xy: 0, 0
+  size: 150, 205
+  orig: 150, 205
+  offset: 0, 0
+  index: -1
+tuoxie/08
+  rotate: true
+  xy: 207, 0
+  size: 150, 205
+  orig: 150, 205
+  offset: 0, 0
+  index: -1
+tuoxie/09
+  rotate: true
+  xy: 414, 0
+  size: 150, 205
+  orig: 150, 205
+  offset: 0, 0
+  index: -1
+tuoxie/10
+  rotate: true
+  xy: 621, 0
+  size: 150, 205
+  orig: 150, 205
+  offset: 0, 0
+  index: -1
+tuoxie/11
+  rotate: true
+  xy: 828, 0
+  size: 150, 205
+  orig: 150, 205
+  offset: 0, 0
+  index: -1
+tuoxie/21
+  rotate: false
+  xy: 1035, 4
+  size: 156, 146
+  orig: 156, 146
+  offset: 0, 0
+  index: -1
+tuoxie/21_10
+  rotate: false
+  xy: 1193, 59
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+tuoxie/21_9
+  rotate: true
+  xy: 1242, 135
+  size: 167, 109
+  orig: 167, 109
+  offset: 0, 0
+  index: -1

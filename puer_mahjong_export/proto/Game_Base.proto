@@ -1,0 +1,253 @@
+syntax = "proto2";
+
+
+package Game;
+enum Command
+{
+    cmd_place_holder = 0;
+    S2C_LoginError = 0x1005; //登录错误
+    S2C_LoginSucc = 0x1007; //登录房间成功 通知自己
+    S2C_LogoutSucc = 0x1008; //退出房间成功 通知自己
+    S2C_ReconnSucc = 0x1009; //重连成功
+    S2C_UserEnterRoom = 0x100D; //玩家进入房间 通知其他玩家
+    S2C_UserQuitRoom = 0x100E; //玩家退出房间
+    S2C_UserReadyStatus = 0x4001; //玩家准备状态
+    S2C_UserAutoStatus = 0x4007; //玩家托管状态
+    
+    S2C_SystemError = 0x5000;
+    S2C_GameStart = 0x5001; //游戏开始
+    S2C_FlipCard = 0x5002; //公共牌翻牌
+    S2C_DealCard = 0x5003; //发牌或补牌
+    S2C_RoundStart = 0x5004; //回合开始
+    C2S_PickCard = 0x5005; //玩家选牌
+    S2C_PickCard = 0x5006; //选牌结果
+    S2C_StartCompare = 0x5007; //开始比牌
+    S2C_CompareResult = 0x5008; //比牌结果
+    S2C_MoneyFlow = 0x5009; //本轮流水
+    S2C_WithdrawMoney = 0x5010; //通知玩家破产取钱
+    C2S_WithdrawMoney = 0x5011; //玩家取钱结果
+
+    S2C_Settle = 0x5016; //结算消息
+    S2C_GameOver = 0x5017; //游戏结束
+};
+
+// S2C_LoginError
+message RspLoginError 
+{
+    optional uint32 errcode = 1;
+};
+
+message RoomInfo 
+{
+    optional uint32 level = 1;
+    optional uint32 basechip = 2;
+    optional uint32 deskfee = 3;
+    optional uint32 total_game = 4;
+};
+
+message RoomUserInfo 
+{
+    optional uint32 uid = 1;
+    optional uint32 seatid = 2;
+    optional bool ready = 3;
+    optional bool ai = 4; //是否托管
+    optional int64 money = 5;
+    optional string userinfo = 6; //json格式
+};
+
+// S2C_LoginSucc
+message RspLoginSuccess
+{
+    optional RoomInfo room_info = 1;
+    optional RoomUserInfo self_info = 2;
+    repeated RoomUserInfo others = 3;
+};
+
+// S2C_LogoutSucc
+message RspLogoutSuccess 
+{
+    optional uint32 uid = 1; //退出玩家uid
+};
+
+// S2C_ReconnSucc
+message RspReconnSuccess
+{
+    optional uint32 uid = 1; //自己uid
+    optional uint32 optime = 2; //剩余操作时间(选牌或取钱剩余时间)
+    optional RoomInfo room_info = 3;  
+    repeated RoomUserInfo user_info = 4;
+    optional uint32 round = 5;
+    
+    optional RspFlipCard public_cards = 6; //公共牌
+    optional RspDealCard hand_cards = 7; //手牌
+    repeated RspCompareResult comp_records = 8; //比牌记录
+    repeated RspMoneyFlow money_flow = 9; //历史流水
+    repeated RspPickCard pick_records = 10; //选牌阶段重连,会通知所有人选牌结果
+    optional uint32 bankrupt_uid = 11; //取钱时重连,会发破产玩家uid
+    optional uint32 timertype = 12; //定时器类型
+};
+
+// S2C_UserEnterRoom
+message RspUserEnterRoom 
+{
+    optional RoomUserInfo userinfo = 1;
+};
+
+// S2C_UserQuitRoom
+message RspUserQuitRoom
+{
+    optional uint32 uid = 1;
+};
+
+// S2C_UserReadyStatus
+message RspUserReadyStatus
+{
+    optional uint32 uid = 1;
+    optional bool ready = 2; // 0-未准备 1-准备 
+};
+
+// S2C_UserAutoStatus
+message RspUserAutoStatus
+{
+    optional uint32 uid = 1;
+    optional bool ai = 2; //0-未托管 1-托管
+};
+
+/////////////////////////////////////////////////////////////////////////
+
+//对局出现异常，对局会结束
+message SystemError 
+{
+    optional uint32 errcode = 1;
+    optional string reason = 2;
+};
+
+// S2C_GameStart
+message RspGameStart
+{
+    optional uint32 param = 1;
+}
+
+message PublicCard 
+{
+    optional uint32 card = 1;
+    optional bool cover = 2;
+}
+
+//S2C_FlipCard
+message RspFlipCard 
+{
+    repeated PublicCard public_cards = 1;
+    optional uint32 round = 2;
+}
+
+message UserCards 
+{
+    optional uint32 uid = 1;
+    repeated uint32 cards = 2;
+    optional uint32 num = 3; //发牌后手牌数量
+}
+
+//S2C_DealCard
+message RspDealCard 
+{
+    repeated UserCards cards = 1;
+    optional uint32 left_num = 2; //牌堆剩余数量
+    optional uint32 round = 3;
+};
+
+
+// S2C_RoundStart
+message RspRoundStart 
+{
+    optional uint32 round = 1;
+    optional uint32 optime = 2;
+}
+
+// C2S_PickCard
+message ReqPickCard
+{
+    optional uint32 uid = 1;
+    repeated uint32 cards = 2; //不含公共牌
+}
+
+// S2C_PickCard
+message RspPickCard
+{
+    optional uint32 errcode = 1;
+    optional uint32 uid = 2;
+    optional uint32 num = 3; //选牌后手牌数量
+    repeated uint32 outcards = 4; //选牌结果
+}
+
+// S2C_StartCompare
+message RspStartCompare
+{
+    optional uint32 round = 1;
+}
+
+// S2C_CompareResult
+message RspCompareResult
+{
+    optional uint32 uid = 1;
+    optional uint32 rank = 2;
+    optional uint32 round = 3;
+    repeated uint32 cards = 4; //包含公共牌
+    optional uint32 type = 5; //牌型
+}
+
+message MoneyItem
+{
+    optional uint32 uid = 1;
+    optional int64 money = 2;
+    optional int64 total_money = 3;
+}
+
+// S2C_MoneyFlow
+message RspMoneyFlow
+{
+    optional uint32 round = 1;
+    repeated MoneyItem items = 2;
+}
+
+message WithdrawUserData
+{
+    optional uint32 uid = 1;
+    optional uint32 choose = 2;  // 1-取钱完成  2-放弃取钱
+    optional int64 money = 3; //取钱后的钱 放弃则为0
+}
+
+// C2S_WithdrawMoney
+message ReqWithdrawMoney 
+{
+    optional uint32 choose = 1; // 1-取钱完成  2-放弃取钱
+};
+
+// S2C_WithdrawMoney
+message RspWithdrawMoney 
+{
+    optional uint32 opt = 1; //1-通知玩家取钱  2-玩家取钱结果 
+    optional uint32 optime = 2; //opt==1 破产取钱时间
+    optional uint32 bankrupt_uid = 3; //opt==1 破产玩家
+    optional WithdrawUserData data = 4; //opt==2 玩家选择结果
+};
+
+message SettleItem 
+{
+    optional uint32 uid = 1;
+    optional int64 turn_money = 2;
+    optional uint32 lose_cnt = 3;
+}
+
+// S2C_Settle 结算消息
+message RspSettle 
+{
+    repeated SettleItem items = 1;
+};
+
+// S2C_GameOver
+message RspGameOver 
+{
+    optional uint32 param = 1;
+};
+

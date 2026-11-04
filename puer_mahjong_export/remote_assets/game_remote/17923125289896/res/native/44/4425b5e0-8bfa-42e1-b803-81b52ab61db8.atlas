@@ -1,0 +1,286 @@
+
+mj_hu.png
+size: 1927,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+222
+  rotate: false
+  xy: 590, 266
+  size: 267, 267
+  orig: 290, 290
+  offset: 11, 11
+  index: -1
+222_2
+  rotate: false
+  xy: 859, 266
+  size: 267, 267
+  orig: 290, 290
+  offset: 11, 11
+  index: -1
+BG_light
+  rotate: true
+  xy: 311, 255
+  size: 278, 277
+  orig: 300, 300
+  offset: 10, 11
+  index: -1
+CP_LIGHT
+  rotate: false
+  xy: 1220, 51
+  size: 124, 42
+  orig: 127, 45
+  offset: 2, 1
+  index: -1
+CP_LIGHT_l
+  rotate: true
+  xy: 1068, 25
+  size: 57, 95
+  orig: 58, 96
+  offset: 0, 0
+  index: -1
+CP_LIGHT_r
+  rotate: true
+  xy: 969, 25
+  size: 57, 97
+  orig: 60, 97
+  offset: 3, 0
+  index: -1
+CP_LIGHT_s
+  rotate: false
+  xy: 748, 6
+  size: 112, 34
+  orig: 134, 36
+  offset: 0, 2
+  index: -1
+FFQ_light_05
+  rotate: true
+  xy: 1128, 371
+  size: 162, 159
+  orig: 201, 181
+  offset: 23, 11
+  index: -1
+FFQ_light_08
+  rotate: true
+  xy: 1098, 95
+  size: 169, 156
+  orig: 178, 178
+  offset: 1, 16
+  index: -1
+RedBag_light
+  rotate: false
+  xy: 1521, 241
+  size: 144, 144
+  orig: 150, 150
+  offset: 3, 3
+  index: -1
+SD_3_00015_00010
+  rotate: false
+  xy: 1394, 89
+  size: 132, 145
+  orig: 163, 172
+  offset: 13, 13
+  index: -1
+SD_3_00015_00012
+  rotate: false
+  xy: 1387, 236
+  size: 132, 146
+  orig: 163, 172
+  offset: 14, 9
+  index: -1
+SD_3_00015_00014
+  rotate: false
+  xy: 1256, 219
+  size: 129, 150
+  orig: 163, 172
+  offset: 17, 9
+  index: -1
+ZHA_light
+  rotate: true
+  xy: 2, 237
+  size: 296, 99
+  orig: 296, 100
+  offset: 0, 0
+  index: -1
+boom_00000
+  rotate: false
+  xy: 862, 11
+  size: 32, 32
+  orig: 63, 62
+  offset: 14, 14
+  index: -1
+boom_00001
+  rotate: true
+  xy: 707, 2
+  size: 38, 39
+  orig: 63, 62
+  offset: 11, 10
+  index: -1
+boom_00002
+  rotate: false
+  xy: 1165, 40
+  size: 53, 53
+  orig: 63, 62
+  offset: 6, 6
+  index: -1
+icon_saoguang
+  rotate: false
+  xy: 1128, 272
+  size: 125, 97
+  orig: 138, 102
+  offset: 6, 2
+  index: -1
+nina
+  rotate: false
+  xy: 1670, 400
+  size: 120, 133
+  orig: 121, 133
+  offset: 1, 0
+  index: -1
+px_bao_text
+  rotate: true
+  xy: 1792, 420
+  size: 113, 133
+  orig: 113, 133
+  offset: 0, 0
+  index: -1
+px_bh_text
+  rotate: true
+  xy: 835, 45
+  size: 219, 132
+  orig: 220, 132
+  offset: 0, 0
+  index: -1
+px_bt_text
+  rotate: true
+  xy: 578, 27
+  size: 226, 127
+  orig: 227, 127
+  offset: 1, 0
+  index: -1
+px_che_text
+  rotate: true
+  xy: 288, 5
+  size: 234, 134
+  orig: 235, 134
+  offset: 1, 0
+  index: -1
+px_chi_text
+  rotate: true
+  xy: 1532, 389
+  size: 144, 136
+  orig: 145, 136
+  offset: 1, 0
+  index: -1
+px_fei_text
+  rotate: true
+  xy: 1789, 172
+  size: 114, 123
+  orig: 114, 123
+  offset: 0, 0
+  index: -1
+px_gang_di
+  rotate: true
+  xy: 103, 241
+  size: 292, 102
+  orig: 294, 104
+  offset: 1, 1
+  index: -1
+px_gang_text
+  rotate: false
+  xy: 1289, 384
+  size: 124, 149
+  orig: 126, 151
+  offset: 1, 1
+  index: -1
+px_hu_di
+  rotate: true
+  xy: 207, 241
+  size: 292, 102
+  orig: 294, 104
+  offset: 1, 1
+  index: -1
+px_hu_text
+  rotate: false
+  xy: 1415, 387
+  size: 115, 146
+  orig: 117, 148
+  offset: 1, 1
+  index: -1
+px_jt_text
+  rotate: true
+  xy: 137, 3
+  size: 236, 149
+  orig: 236, 149
+  offset: 0, 0
+  index: -1
+px_langqi_text
+  rotate: true
+  xy: 424, 22
+  size: 231, 152
+  orig: 231, 152
+  offset: 0, 0
+  index: -1
+px_lizi
+  rotate: true
+  xy: 1665, 95
+  size: 144, 113
+  orig: 167, 137
+  offset: 10, 13
+  index: -1
+px_minglv_text
+  rotate: true
+  xy: 2, 3
+  size: 232, 133
+  orig: 232, 133
+  offset: 0, 0
+  index: -1
+px_ml_text
+  rotate: true
+  xy: 707, 42
+  size: 222, 126
+  orig: 222, 126
+  offset: 0, 0
+  index: -1
+px_peng_text
+  rotate: true
+  xy: 1528, 95
+  size: 144, 135
+  orig: 146, 137
+  offset: 1, 1
+  index: -1
+px_ti_text
+  rotate: false
+  xy: 1792, 288
+  size: 131, 130
+  orig: 131, 130
+  offset: 0, 0
+  index: -1
+px_ting_text
+  rotate: false
+  xy: 1667, 253
+  size: 120, 134
+  orig: 120, 134
+  offset: 0, 0
+  index: -1
+px_xiao_text
+  rotate: true
+  xy: 1256, 97
+  size: 120, 136
+  orig: 120, 136
+  offset: 0, 0
+  index: -1
+px_zm_text
+  rotate: true
+  xy: 969, 84
+  size: 180, 127
+  orig: 182, 129
+  offset: 1, 1
+  index: -1
+yanchen2
+  rotate: false
+  xy: 1780, 62
+  size: 115, 108
+  orig: 127, 121
+  offset: 6, 6
+  index: -1

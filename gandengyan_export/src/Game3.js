@@ -1,0 +1,1 @@
+System.register("chunks:///_virtual/Game3.ts",["cc"],(function(e){var t;return{setters:[function(e){t=e.cclegacy}],execute:function(){var a;e("Game",void 0),t._RF.push({},"281f2S2kOxKTpNw4hEEo/ZA","Game",void 0),a||(a=e("Game",{})),t._RF.pop()}}}))

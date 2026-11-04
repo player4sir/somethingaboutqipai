@@ -1,0 +1,258 @@
+
+gameStart_boss.png
+size: 1023,600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caidai_1
+  rotate: false
+  xy: 492, 376
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+caidai_2
+  rotate: false
+  xy: 387, 204
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+caidai_3
+  rotate: false
+  xy: 1000, 324
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+caidai_5
+  rotate: false
+  xy: 461, 377
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+gz_11
+  rotate: false
+  xy: 268, 17
+  size: 118, 46
+  orig: 118, 46
+  offset: 0, 0
+  index: -1
+gz_111
+  rotate: true
+  xy: 513, 365
+  size: 235, 305
+  orig: 235, 305
+  offset: 0, 0
+  index: -1
+gz_12
+  rotate: true
+  xy: 994, 461
+  size: 139, 29
+  orig: 139, 29
+  offset: 0, 0
+  index: -1
+gz_16
+  rotate: false
+  xy: 778, 3
+  size: 162, 31
+  orig: 162, 31
+  offset: 0, 0
+  index: -1
+gz_17
+  rotate: true
+  xy: 1000, 366
+  size: 93, 16
+  orig: 93, 16
+  offset: 0, 0
+  index: -1
+gz_18
+  rotate: false
+  xy: 668, 84
+  size: 117, 105
+  orig: 117, 105
+  offset: 0, 0
+  index: -1
+gz_19
+  rotate: false
+  xy: 787, 36
+  size: 117, 105
+  orig: 117, 105
+  offset: 0, 0
+  index: -1
+gz_20
+  rotate: false
+  xy: 432, 403
+  size: 69, 50
+  orig: 69, 50
+  offset: 0, 0
+  index: -1
+gz_21
+  rotate: true
+  xy: 337, 65
+  size: 124, 143
+  orig: 124, 143
+  offset: 0, 0
+  index: -1
+gz_22
+  rotate: false
+  xy: 186, 81
+  size: 146, 85
+  orig: 146, 85
+  offset: 0, 0
+  index: -1
+gz_3
+  rotate: true
+  xy: 906, 37
+  size: 104, 114
+  orig: 104, 114
+  offset: 0, 0
+  index: -1
+gz_7
+  rotate: false
+  xy: 482, 107
+  size: 184, 82
+  orig: 184, 82
+  offset: 0, 0
+  index: -1
+gz_77
+  rotate: false
+  xy: 0, 75
+  size: 184, 82
+  orig: 184, 82
+  offset: 0, 0
+  index: -1
+pai_4
+  rotate: false
+  xy: 186, 1
+  size: 80, 78
+  orig: 80, 78
+  offset: 0, 0
+  index: -1
+pai_5
+  rotate: false
+  xy: 337, 244
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+pai_6
+  rotate: false
+  xy: 100, 22
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+pai_7
+  rotate: false
+  xy: 679, 13
+  size: 97, 69
+  orig: 97, 69
+  offset: 0, 0
+  index: -1
+pai_8
+  rotate: false
+  xy: 388, 18
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+tx1_1
+  rotate: true
+  xy: 820, 422
+  size: 178, 172
+  orig: 178, 172
+  offset: 0, 0
+  index: -1
+tx1_2
+  rotate: false
+  xy: 820, 248
+  size: 178, 172
+  orig: 178, 172
+  offset: 0, 0
+  index: -1
+tx1_3
+  rotate: false
+  xy: 432, 191
+  size: 178, 172
+  orig: 178, 172
+  offset: 0, 0
+  index: -1
+tx1_4
+  rotate: false
+  xy: 612, 191
+  size: 178, 172
+  orig: 178, 172
+  offset: 0, 0
+  index: -1
+tx1_5
+  rotate: false
+  xy: 0, 159
+  size: 178, 172
+  orig: 178, 172
+  offset: 0, 0
+  index: -1
+tx_1
+  rotate: true
+  xy: 589, 0
+  size: 82, 88
+  orig: 82, 88
+  offset: 0, 0
+  index: -1
+tx_2
+  rotate: false
+  xy: 792, 143
+  size: 217, 103
+  orig: 217, 103
+  offset: 0, 0
+  index: -1
+tx_3
+  rotate: false
+  xy: 482, 2
+  size: 105, 103
+  orig: 105, 103
+  offset: 0, 0
+  index: -1
+tx_4
+  rotate: false
+  xy: 432, 375
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+tx_5
+  rotate: false
+  xy: 337, 193
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+tx_6
+  rotate: false
+  xy: 180, 168
+  size: 155, 163
+  orig: 155, 163
+  offset: 0, 0
+  index: -1
+tx_7
+  rotate: true
+  xy: 0, 11
+  size: 62, 98
+  orig: 62, 98
+  offset: 0, 0
+  index: -1
+zi_1
+  rotate: false
+  xy: 0, 455
+  size: 511, 145
+  orig: 511, 145
+  offset: 0, 0
+  index: -1
+zi_2
+  rotate: false
+  xy: 0, 333
+  size: 430, 120
+  orig: 430, 120
+  offset: 0, 0
+  index: -1

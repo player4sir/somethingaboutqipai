@@ -1,0 +1,83 @@
+
+huanzhuang.png
+size: 865,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenzi_1
+  rotate: false
+  xy: 0, 0
+  size: 230, 141
+  orig: 230, 141
+  offset: 0, 0
+  index: -1
+wenzi_2
+  rotate: false
+  xy: 0, 143
+  size: 302, 187
+  orig: 302, 187
+  offset: 0, 0
+  index: -1
+xlz_1
+  rotate: false
+  xy: 232, 16
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+xlz_2
+  rotate: false
+  xy: 304, 143
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+xlz_3
+  rotate: false
+  xy: 359, 16
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+xlz_4
+  rotate: false
+  xy: 431, 143
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+xlz_5
+  rotate: false
+  xy: 486, 16
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+xlz_6
+  rotate: false
+  xy: 558, 143
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+xlz_7
+  rotate: false
+  xy: 613, 16
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+xlz_8
+  rotate: false
+  xy: 685, 143
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+xlz_9
+  rotate: false
+  xy: 740, 16
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1

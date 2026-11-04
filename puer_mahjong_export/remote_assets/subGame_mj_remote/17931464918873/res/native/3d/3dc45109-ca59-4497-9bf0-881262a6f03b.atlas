@@ -1,0 +1,55 @@
+
+MJ_DQ.png
+size: 525,329
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+222
+  rotate: false
+  xy: 0, 39
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+DQ_TONG_DI
+  rotate: false
+  xy: 292, 211
+  size: 113, 118
+  orig: 113, 118
+  offset: 0, 0
+  index: -1
+DQ_TONG_TEXT
+  rotate: true
+  xy: 412, 2
+  size: 99, 109
+  orig: 99, 109
+  offset: 0, 0
+  index: -1
+DQ_T_DI
+  rotate: true
+  xy: 292, 96
+  size: 113, 118
+  orig: 113, 118
+  offset: 0, 0
+  index: -1
+DQ_T_TEXT
+  rotate: false
+  xy: 412, 103
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+DQ_W_DI
+  rotate: true
+  xy: 407, 216
+  size: 113, 118
+  orig: 113, 118
+  offset: 0, 0
+  index: -1
+DQ_W_TEXT
+  rotate: false
+  xy: 292, 0
+  size: 103, 94
+  orig: 103, 94
+  offset: 0, 0
+  index: -1

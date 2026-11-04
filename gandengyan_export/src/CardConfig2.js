@@ -1,0 +1,1 @@
+System.register("chunks:///_virtual/CardConfig2.ts",["cc"],(function(){var e;return{setters:[function(t){e=t.cclegacy}],execute:function(){e._RF.push({},"7d7381rrQ9HvqfhL6SeXh6Z","CardConfig",void 0),e._RF.pop()}}}))

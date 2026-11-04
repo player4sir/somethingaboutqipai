@@ -1,0 +1,1 @@
+System.register("chunks:///_virtual/SubConfig.ts",["cc"],(function(e){var t;return{setters:[function(e){t=e.cclegacy}],execute:function(){t._RF.push({},"6b7e2VoIhFEao91sJLBj6Ju","SubConfig",void 0),e("SubConfig",{}),t._RF.pop()}}}))

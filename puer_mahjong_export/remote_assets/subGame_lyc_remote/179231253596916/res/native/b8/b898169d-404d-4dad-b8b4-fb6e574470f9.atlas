@@ -1,0 +1,41 @@
+
+smoke.png
+size: 127,598
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+smoke01
+  rotate: false
+  xy: 0, 480
+  size: 127, 118
+  orig: 127, 118
+  offset: 0, 0
+  index: -1
+smoke02
+  rotate: false
+  xy: 0, 360
+  size: 127, 118
+  orig: 127, 118
+  offset: 0, 0
+  index: -1
+smoke03
+  rotate: false
+  xy: 0, 240
+  size: 127, 118
+  orig: 127, 118
+  offset: 0, 0
+  index: -1
+smoke04
+  rotate: false
+  xy: 0, 120
+  size: 127, 118
+  orig: 127, 118
+  offset: 0, 0
+  index: -1
+smoke05
+  rotate: false
+  xy: 0, 0
+  size: 127, 118
+  orig: 127, 118
+  offset: 0, 0
+  index: -1

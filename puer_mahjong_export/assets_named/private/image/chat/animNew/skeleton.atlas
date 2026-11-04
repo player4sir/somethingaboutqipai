@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 78,38
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yuyin_laba
+  rotate: true
+  xy: 0, 2
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+yuyin_n
+  rotate: false
+  xy: 68, 14
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+yuyin_w
+  rotate: false
+  xy: 54, 0
+  size: 12, 38
+  orig: 12, 38
+  offset: 0, 0
+  index: -1

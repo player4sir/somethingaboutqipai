@@ -1,0 +1,55 @@
+
+dangao.png
+size: 303,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huan_0
+  rotate: true
+  xy: 180, 202
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+huan_1
+  rotate: true
+  xy: 212, 202
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+huan_3
+  rotate: false
+  xy: 151, 18
+  size: 139, 124
+  orig: 139, 124
+  offset: 0, 0
+  index: -1
+huan_4
+  rotate: true
+  xy: 0, 0
+  size: 142, 149
+  orig: 142, 149
+  offset: 0, 0
+  index: -1
+huan_5
+  rotate: true
+  xy: 180, 233
+  size: 119, 123
+  orig: 119, 123
+  offset: 0, 0
+  index: -1
+huan_6
+  rotate: false
+  xy: 0, 144
+  size: 178, 208
+  orig: 178, 208
+  offset: 0, 0
+  index: -1
+shui
+  rotate: true
+  xy: 244, 213
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,147 @@
+{
+  "appId": "wxf4e8b870d6c337ac",
+  "name": "普洱麻将 (东方棋牌)",
+  "exportTime": "2026-10-28T20:27:32.401Z",
+  "packages": [
+    {
+      "packageFile": "_subpackages_activity_.wxapkg",
+      "packageName": "activity",
+      "rawSize": 252900,
+      "decryptedSize": 252893,
+      "fileCount": 2
+    },
+    {
+      "packageFile": "_subpackages_audio_common_.wxapkg",
+      "packageName": "audio_common",
+      "rawSize": 550726,
+      "decryptedSize": 550719,
+      "fileCount": 12
+    },
+    {
+      "packageFile": "_subpackages_base_.wxapkg",
+      "packageName": "base",
+      "rawSize": 1372249,
+      "decryptedSize": 1372242,
+      "fileCount": 4
+    },
+    {
+      "packageFile": "_subpackages_decoration_.wxapkg",
+      "packageName": "decoration",
+      "rawSize": 17588,
+      "decryptedSize": 17581,
+      "fileCount": 2
+    },
+    {
+      "packageFile": "_subpackages_game_.wxapkg",
+      "packageName": "game",
+      "rawSize": 596239,
+      "decryptedSize": 596232,
+      "fileCount": 2
+    },
+    {
+      "packageFile": "_subpackages_game_common_.wxapkg",
+      "packageName": "game_common",
+      "rawSize": 233458,
+      "decryptedSize": 233451,
+      "fileCount": 2
+    },
+    {
+      "packageFile": "_subpackages_giftbag_.wxapkg",
+      "packageName": "giftbag",
+      "rawSize": 226132,
+      "decryptedSize": 226125,
+      "fileCount": 2
+    },
+    {
+      "packageFile": "_subpackages_hall_.wxapkg",
+      "packageName": "hall",
+      "rawSize": 433431,
+      "decryptedSize": 433424,
+      "fileCount": 2
+    },
+    {
+      "packageFile": "_subpackages_internal_.wxapkg",
+      "packageName": "internal",
+      "rawSize": 1533659,
+      "decryptedSize": 1533652,
+      "fileCount": 36
+    },
+    {
+      "packageFile": "_subpackages_login_.wxapkg",
+      "packageName": "login",
+      "rawSize": 3368931,
+      "decryptedSize": 3368924,
+      "fileCount": 25
+    },
+    {
+      "packageFile": "_subpackages_main_.wxapkg",
+      "packageName": "main",
+      "rawSize": 811641,
+      "decryptedSize": 811634,
+      "fileCount": 15
+    },
+    {
+      "packageFile": "_subpackages_match_.wxapkg",
+      "packageName": "match",
+      "rawSize": 94042,
+      "decryptedSize": 94035,
+      "fileCount": 2
+    },
+    {
+      "packageFile": "_subpackages_private_.wxapkg",
+      "packageName": "private",
+      "rawSize": 152979,
+      "decryptedSize": 152972,
+      "fileCount": 2
+    },
+    {
+      "packageFile": "_subpackages_resources_.wxapkg",
+      "packageName": "resources",
+      "rawSize": 883296,
+      "decryptedSize": 883289,
+      "fileCount": 158
+    },
+    {
+      "packageFile": "_subpackages_subGame_ddz_.wxapkg",
+      "packageName": "subGame_ddz",
+      "rawSize": 461767,
+      "decryptedSize": 461760,
+      "fileCount": 2
+    },
+    {
+      "packageFile": "_subpackages_subGame_gdy_.wxapkg",
+      "packageName": "subGame_gdy",
+      "rawSize": 335385,
+      "decryptedSize": 335378,
+      "fileCount": 2
+    },
+    {
+      "packageFile": "_subpackages_subGame_lyc_.wxapkg",
+      "packageName": "subGame_lyc",
+      "rawSize": 400493,
+      "decryptedSize": 400486,
+      "fileCount": 2
+    },
+    {
+      "packageFile": "_subpackages_subGame_mj_.wxapkg",
+      "packageName": "subGame_mj",
+      "rawSize": 657658,
+      "decryptedSize": 657651,
+      "fileCount": 2
+    },
+    {
+      "packageFile": "_subpackages_subGame_shp_.wxapkg",
+      "packageName": "subGame_shp",
+      "rawSize": 388228,
+      "decryptedSize": 388221,
+      "fileCount": 2
+    },
+    {
+      "packageFile": "__APP__.wxapkg",
+      "packageName": "__APP__",
+      "rawSize": 3628517,
+      "decryptedSize": 3628510,
+      "fileCount": 85
+    }
+  ]
+}

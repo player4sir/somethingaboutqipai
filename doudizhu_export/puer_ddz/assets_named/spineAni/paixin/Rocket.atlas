@@ -1,0 +1,181 @@
+
+Rocket.png
+size: 313,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dl0001
+  rotate: true
+  xy: 132, 45
+  size: 156, 39
+  orig: 156, 39
+  offset: 0, 0
+  index: -1
+dl0002
+  rotate: true
+  xy: 274, 867
+  size: 156, 39
+  orig: 156, 39
+  offset: 0, 0
+  index: -1
+dl0003
+  rotate: true
+  xy: 274, 709
+  size: 156, 39
+  orig: 156, 39
+  offset: 0, 0
+  index: -1
+dl0004
+  rotate: true
+  xy: 274, 551
+  size: 156, 39
+  orig: 156, 39
+  offset: 0, 0
+  index: -1
+dl0005
+  rotate: true
+  xy: 274, 393
+  size: 156, 39
+  orig: 156, 39
+  offset: 0, 0
+  index: -1
+dl0006
+  rotate: true
+  xy: 173, 45
+  size: 156, 39
+  orig: 156, 39
+  offset: 0, 0
+  index: -1
+f10001
+  rotate: false
+  xy: 0, 888
+  size: 195, 135
+  orig: 195, 135
+  offset: 0, 0
+  index: -1
+f10003
+  rotate: false
+  xy: 0, 751
+  size: 195, 135
+  orig: 195, 135
+  offset: 0, 0
+  index: -1
+f10005
+  rotate: false
+  xy: 0, 614
+  size: 195, 135
+  orig: 195, 135
+  offset: 0, 0
+  index: -1
+f10007
+  rotate: false
+  xy: 0, 477
+  size: 195, 135
+  orig: 195, 135
+  offset: 0, 0
+  index: -1
+f10009
+  rotate: false
+  xy: 0, 340
+  size: 195, 135
+  orig: 195, 135
+  offset: 0, 0
+  index: -1
+f10011
+  rotate: false
+  xy: 0, 203
+  size: 195, 135
+  orig: 195, 135
+  offset: 0, 0
+  index: -1
+gf10001
+  rotate: true
+  xy: 197, 876
+  size: 147, 75
+  orig: 147, 75
+  offset: 0, 0
+  index: -1
+gf10002
+  rotate: true
+  xy: 197, 727
+  size: 147, 75
+  orig: 147, 75
+  offset: 0, 0
+  index: -1
+gf10003
+  rotate: true
+  xy: 197, 578
+  size: 147, 75
+  orig: 147, 75
+  offset: 0, 0
+  index: -1
+gf10004
+  rotate: true
+  xy: 197, 429
+  size: 147, 75
+  orig: 147, 75
+  offset: 0, 0
+  index: -1
+gf10005
+  rotate: true
+  xy: 197, 280
+  size: 147, 75
+  orig: 147, 75
+  offset: 0, 0
+  index: -1
+hj
+  rotate: true
+  xy: 0, 1
+  size: 200, 130
+  orig: 200, 130
+  offset: 0, 0
+  index: -1
+yw0001
+  rotate: false
+  xy: 132, 0
+  size: 88, 43
+  orig: 88, 43
+  offset: 0, 0
+  index: -1
+yw0002
+  rotate: false
+  xy: 197, 235
+  size: 88, 43
+  orig: 88, 43
+  offset: 0, 0
+  index: -1
+yw0003
+  rotate: true
+  xy: 214, 145
+  size: 88, 43
+  orig: 88, 43
+  offset: 0, 0
+  index: -1
+yw0004
+  rotate: true
+  xy: 214, 55
+  size: 88, 43
+  orig: 88, 43
+  offset: 0, 0
+  index: -1
+yw0005
+  rotate: true
+  xy: 259, 145
+  size: 88, 43
+  orig: 88, 43
+  offset: 0, 0
+  index: -1
+yw0006
+  rotate: true
+  xy: 259, 55
+  size: 88, 43
+  orig: 88, 43
+  offset: 0, 0
+  index: -1
+yw0007
+  rotate: false
+  xy: 222, 10
+  size: 88, 43
+  orig: 88, 43
+  offset: 0, 0
+  index: -1

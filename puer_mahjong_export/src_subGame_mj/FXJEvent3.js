@@ -1,0 +1,22 @@
+System.register("chunks:///_virtual/FXJEvent3.ts", ["./rollupPluginModLoBabelHelpers.js", "cc", "./AppEvent.ts"], (function(e) {
+    var t, n, a, i;
+    return {
+        setters: [function(e) {
+            t = e.inheritsLoose
+        }, function(e) {
+            n = e.cclegacy
+        }, function(e) {
+            a = e.GetAppEventID, i = e.AppEvent
+        }],
+        execute: function() {
+            n._RF.push({}, "59fb7KNKbVDG4l6ufwHX5bK", "FXJEvent", void 0);
+            var o = e("FXJEvent", function(e) {
+                function n() {
+                    return e.apply(this, arguments) || this
+                }
+                return t(n, e), n
+            }(i));
+            o.GAME_REQ_PLAYER_CHAET_MSG = a(), o.GAME_REQ_PLAYER_CHAET_EMOJI = a(), o.GAME_REQ_EMOJI_PROPS_MSG = a(), o.VIEW_DESK_BTN_MENU_UPDATE = a(), o.GAME_OPEN_POPUP = a(), o.GAME_CLOSE_POPUP = a(), o.VIEW_DESK_ANI_PLAY = a(), o.VIEW_OUT_CARD_ANI_PLAY = a(), o.GAME_START_ANI_FINISH = a(), o.VIEW_PLAYER_INTO = a(), o.VIEW_PLAYER_CHAT_SHOW = a(), o.VIEW_BROADCAST_TO_WAIT_USER_GIVE_UP = a(), o.VIEW_BROADCAST_TO_WAIT_USER_GIVE_UP_RESULT = a(), o.BROADCAST_DING_ZHUANG = a(), o.BROADCAST_GRAB_CARD = a(), o.BROADCAST_USER_OPERATION_RESULT = a(), o.BROADCAST_DEAL_CARD = a(), o.BROADCAST_DINGQUE_OPTIONS = a(), o.BROADCAST_USER_PIAO_GANG = a(), o.BROADCAST_PAOQIAN_OPTIONS = a(), o.BROADCAST_ONE_DINGQUE_RESULT = a(), o.BROADCAST_ALL_DINGQUE_RESULT = a(), o.BROADCAST_SHUAIQIANG_RESULT = a(), o.BROADCAST_CHAQUE_RESULT = a(), o.BROADCAST_MAIDUANMEN_USER = a(), o.BROADCAST_MAIDUANMEN_RESULT = a(), o.BROADCAST_HUAN_BAO = a(), o.BROADCAST_FEN_ZHANG = a(), o.BROADCAST_UPDATE_FAN_GANG_PAI = a(), o.BROADCAST_SELECT_FAN_GANG_PAI = a(), o.BROADCAST_USER_OPERATION = a(), o.BROADCAST_DING_FENG = a(), o.BROADCAST_UPDATE_USER_PAO_CARD = a(), o.BROADCAST_ZHI_TOU = a(), o.BROADCAST_GAME_OVER = a(), o.BROADCAST_GAME_START = a(), o.BROADCAST_DOUBLE_CARDS = a(), o.BROADCAST_REWARD_CARDS = a(), o.BROADCAST_PLAYING_JI_TYPE = a(), o.BROADCAST_ZHUO_JI = a(), o.BROADCAST_SETTLE = a(), o.BROADCAST_HANDCARDS = a(), o.BROADCAST_BANKER_FIRST_OPERATION = a(), o.BROADCAST_UPDATE_PLAYER_MONEY = a(), o.BROADCAST_GANG_OPERATION_RESULT = a(), o.BROADCAST_DING_LAIZI = a(), o.BROADCAST_DI_TING = a(), o.EVEMT_USER_GIVE_UP = a(), o.BROADCAST_TO_WAIT_USER_GIVE_UP = a(), o.BROADCAST_TO_WAIT_USER_GIVE_UP_RESULT = a(), o.BROADCAST_XIAZHU_OPTIONS = a(), o.BROADCAST_XIAZHU_RESULT = a(), o.BROADCAST_BU_HUA_PAI = a(), o.BROADCAST_GEN_ZHUANG_SUCC = a(), o.BROADCAST_FAN_GANG_PAI = a(), o.BROADCAST_LUA_ERROR = a(), o.VIEW_PLAYER_UPDATE_BASEINFO = a(), o.VIEW_PLAYER_REMOVE = a(), o.ROTAION_HANDCARD_OVER = a(), o.BROADCAST_WAIT_HINT = a(), o.BROADCAST_DITING_START = a(), o.BROADCAST_DITING_END = a(), o.BROADCAST_SETTLE_MONEY = a(), o.BROADCAST_REALTIME_HU_INFO = a(), o.NET_BROADCAST_HUAN_SAN_ZHANG = a(), o.BROADCAST_HUAN_SAN_ZHANG = a(), o.BROADCAST_ONE_HUAN_SAN_ZHANG_RESULT = a(), o.BROADCAST_ALL_HUAN_SAN_ZHANG = a(), o.BROADCAST_JI_QIANG_RESULT = a(), o.VIEW_BROADCAST_HUAN_SAN_ZHANG = a(), o.VIEW_BROADCAST_ONE_HUAN_SAN_ZHANG_RESULT = a(), o.VIEW_BROADCAST_ALL_HUAN_SAN_ZHANG = a(), o.VIEW_UPDATE_HUAN_SAN_ZHANG_CARDS = a(), o.VIEW_BROADCAST_HUAN_SAN_ZHANG_HANDCARD = a(), o.VIEW_RESET_HUAN_SAN_ZHANG = a(), n._RF.pop()
+        }
+    }
+}))

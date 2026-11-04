@@ -1,0 +1,218 @@
+{
+  "condition": {
+    "game": {
+      "list": [
+        {
+          "name": "minigame_direct_debug",
+          "pathName": "",
+          "query": "minigame_direct_debug=true",
+          "scene": null
+        },
+        {
+          "name": "game_flow_test",
+          "pathName": "",
+          "query": "first_scene=game_flow_test",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量不洗牌进房自动开局",
+          "query": "first_scene=play&play_mode=2&auto_start=1",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量不洗牌进房",
+          "query": "first_scene=play&play_mode=2",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量三国牌选场",
+          "query": "first_scene=select_scene&play_mode=94",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量进大话牌",
+          "query": "first_scene=dhp",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量大话牌进房",
+          "query": "first_scene=play&play_mode=88",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量大话牌进房自动开局",
+          "query": "first_scene=play&play_mode=88&auto_start=1",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量百变进房",
+          "query": "first_scene=play&play_mode=65",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量百变进房自动开局",
+          "query": "first_scene=play&play_mode=65&auto_start=1",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量双龙进房",
+          "query": "first_scene=play&play_mode=74&auto_start=0",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量接龙进房",
+          "query": "first_scene=play&play_mode=73&auto_start=0",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量gxfc进房",
+          "query": "first_scene=play&play_mode=75&auto_start=0",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量比牌进房",
+          "query": "first_scene=play&play_mode=83&auto_start=0",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量贴牌进房",
+          "query": "first_scene=play&play_mode=81&auto_start=0",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量qdp进房",
+          "query": "first_scene=play&play_mode=84&auto_start=0",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量二人进房",
+          "query": "first_scene=play&play_mode=93&auto_start=0",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量酒馆进房",
+          "query": "first_scene=play&play_mode=88&auto_start=0",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量十点半进房",
+          "query": "first_scene=play&play_mode=92&auto_start=0",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量baba进房",
+          "query": "first_scene=play&play_mode=91&auto_start=0",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量胡闹进房",
+          "query": "first_scene=play&play_mode=99&auto_start=0",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量大话骰进房",
+          "query": "first_scene=play&play_mode=100&auto_start=0",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量小牌进房",
+          "query": "first_scene=play&play_mode=86&auto_start=0",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量510K进房",
+          "query": "first_scene=play&play_mode=67&auto_start=0",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量三国进房",
+          "query": "first_scene=play&play_mode=94&auto_start=0",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量升级进房",
+          "query": "first_scene=play&play_mode=95&auto_start=0",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量锄大地进房",
+          "query": "first_scene=play&play_mode=101&auto_start=0",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量进菜王",
+          "query": "first_scene=sscw",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量进连连看",
+          "query": "first_scene=llk",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量进飞机大战",
+          "query": "first_scene=fjdz",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量进暴走螺丝",
+          "query": "first_scene=bzls",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "买量进cocos主界面",
+          "query": "first_scene=main",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "从小程序码进入飞机大战",
+          "query": "cp_qrcode=1&cp_id=10003",
+          "scene": null
+        },
+        {
+          "pathName": "",
+          "name": "朋友圈广告跳过授权",
+          "query": "",
+          "scene": 1045
+        },
+        {
+          "pathName": "",
+          "name": "模拟wx_aid跳过授权",
+          "query": "wx_aid=1",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

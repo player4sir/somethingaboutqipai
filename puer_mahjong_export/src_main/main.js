@@ -1,0 +1,1 @@
+System.register("chunks:///_virtual/main",["./AppCustomConfig.ts","./ClientInfo.ts","./GameConfig.ts","./GameTxt.ts","./GameChannelConfig.ts","./SubGameConfig.ts","./mainSceneCtr.ts","./CacheTools.ts","./Logger.ts","./ResourceLoader.ts","./Utils.ts"],(function(){return{setters:[null,null,null,null,null,null,null,null,null,null,null],execute:function(){}}}))

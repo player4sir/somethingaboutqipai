@@ -1,0 +1,83 @@
+
+mabao.png
+size: 934,457
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx1_1
+  rotate: true
+  xy: 402, 157
+  size: 178, 172
+  orig: 178, 172
+  offset: 0, 0
+  index: -1
+tx1_2
+  rotate: true
+  xy: 576, 279
+  size: 178, 172
+  orig: 178, 172
+  offset: 0, 0
+  index: -1
+tx1_3
+  rotate: false
+  xy: 576, 105
+  size: 178, 172
+  orig: 178, 172
+  offset: 0, 0
+  index: -1
+tx1_4
+  rotate: false
+  xy: 750, 279
+  size: 178, 172
+  orig: 178, 172
+  offset: 0, 0
+  index: -1
+tx1_5
+  rotate: false
+  xy: 756, 105
+  size: 178, 172
+  orig: 178, 172
+  offset: 0, 0
+  index: -1
+tx_1
+  rotate: true
+  xy: 232, 0
+  size: 155, 163
+  orig: 155, 163
+  offset: 0, 0
+  index: -1
+tx_2
+  rotate: false
+  xy: 397, 56
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+tx_3
+  rotate: false
+  xy: 402, 354
+  size: 105, 103
+  orig: 105, 103
+  offset: 0, 0
+  index: -1
+yuanbao
+  rotate: false
+  xy: 397, 107
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+zi_1
+  rotate: false
+  xy: 0, 22
+  size: 230, 133
+  orig: 230, 133
+  offset: 0, 0
+  index: -1
+zi_2
+  rotate: false
+  xy: 0, 157
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1

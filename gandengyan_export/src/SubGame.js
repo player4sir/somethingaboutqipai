@@ -1,0 +1,1 @@
+System.register("chunks:///_virtual/SubGame.ts",["cc"],(function(e){var t;return{setters:[function(e){t=e.cclegacy}],execute:function(){var a;e("SubGame",void 0),t._RF.push({},"86760pk8ylATb3AhzqGLvYg","SubGame",void 0),a||(a=e("SubGame",{})),t._RF.pop()}}}))

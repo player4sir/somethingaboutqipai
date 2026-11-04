@@ -1,0 +1,1 @@
+System.register("chunks:///_virtual/PaiDian2.ts",["cc"],(function(e){var t;return{setters:[function(e){t=e.cclegacy}],execute:function(){t._RF.push({},"ef0762d4sZA9bfFLdjNRLhQ","PaiDian",void 0),e("PaiDian",function(){function e(e){this.config=void 0,this.config=e}var t=e.prototype;return t.main=function(e){return{}},t.print=function(){},e}()),t._RF.pop()}}}))
